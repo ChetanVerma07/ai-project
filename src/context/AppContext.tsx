@@ -143,8 +143,8 @@ const thinkingTexts = [
   "Thinking deeply...",
   "Processing your thoughts...",
   "Analyzing...",
-  "Generating insight...",
-  "Crafting a response...",
+  "ruk jao...",
+  "soch rahi hun...",
 ];
 
 export const getRandomThinkingText = () => thinkingTexts[Math.floor(Math.random() * thinkingTexts.length)];
