@@ -280,7 +280,7 @@ const AdminDashboard = () => {
             <div className="space-y-5">
               <div className="space-y-2">
                 <div className="inline-flex items-center gap-2 rounded-2xl bg-blue-600/10 px-3 py-2 text-sm font-semibold text-blue-700">
-                  <Shield className="w-4 h-4" /> jarvis Admin
+                  <Shield className="w-4 h-4" /> periperi Admin
                 </div>
                 <p className="text-sm text-muted-foreground">Blue-white dashboard with all existing panel features unified and easy to access.</p>
               </div>
@@ -312,7 +312,7 @@ const AdminDashboard = () => {
               <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
                 <div>
                   <p className="text-sm uppercase tracking-[0.25em] text-muted-foreground">Admin panel</p>
-                  <h1 className="text-2xl font-semibold text-foreground">jarvis Control Center</h1>
+                  <h1 className="text-2xl font-semibold text-foreground">periperi Control Center</h1>
                 </div>
                 <div className="flex flex-wrap gap-2">
                   {tabItems.map((tab) => (

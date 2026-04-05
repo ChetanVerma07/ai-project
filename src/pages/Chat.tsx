@@ -118,7 +118,7 @@ const Chat = () => {
           </motion.button>
           <div className="flex items-center gap-2">
             <Sparkles className="w-4 h-4 text-primary" />
-            <span className="text-lg font-bold text-gradient">jarvis AI</span>
+            <span className="text-lg font-bold text-gradient">periperi AI</span>
           </div>
           <motion.span
             className="w-2 h-2 rounded-full bg-success"
@@ -222,7 +222,7 @@ const Chat = () => {
             >
               <Sparkles className="w-8 h-8 text-primary" />
             </motion.div>
-            <p className="text-muted-foreground text-sm">Start a conversation with jarvis AI</p>
+            <p className="text-muted-foreground text-sm">Start a conversation with periperi AI</p>
           </motion.div>
         )}
 

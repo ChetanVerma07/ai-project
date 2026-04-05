@@ -47,7 +47,7 @@ const UserLogin = () => {
     setTimeout(() => setRipples(prev => prev.filter(r => r.id !== ripple.id)), 600);
   }, []);
 
-  const titleChars = "jarvis AI".split('');
+  const titleChars = "periperi AI".split('');
 
   return (
     <motion.div

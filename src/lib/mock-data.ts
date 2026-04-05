@@ -51,7 +51,7 @@ export const defaultSystemState: SystemState = {
 };
 
 export const mockChatMessages: ChatMessage[] = [
-  { id: '1', sender: 'ai', text: 'Hey! I\'m jarvis AI. How can I help you today?', timestamp: new Date(Date.now() - 5 * 60 * 1000), reactions: [], status: 'read' },
+  { id: '1', sender: 'ai', text: 'Hey! I\'m periperi AI. How can I help you today?', timestamp: new Date(Date.now() - 5 * 60 * 1000), reactions: [], status: 'read' },
   { id: '2', sender: 'user', text: 'Tell me something interesting about space.', timestamp: new Date(Date.now() - 4 * 60 * 1000), reactions: [], status: 'read' },
   { id: '3', sender: 'ai', text: 'A day on Venus is longer than a year on Venus! It takes 243 Earth days to rotate once, but only 225 Earth days to orbit the Sun. 🪐', timestamp: new Date(Date.now() - 3 * 60 * 1000), reactions: ['🔥'], status: 'read' },
 ];

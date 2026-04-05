@@ -152,7 +152,7 @@ export const getRandomThinkingText = () => thinkingTexts[Math.floor(Math.random(
 function getAiResponse(input: string): string {
   const lower = input.toLowerCase();
   if (lower.includes('hello') || lower.includes('hi') || lower.includes('hey')) {
-    return "Hey jarvis AI there! 👋 Great to see you. What's on your mind today?";
+    return "Hey periperi AI there! 👋 Great to see you. What's on your mind today?";
   }
   if (lower.includes('shaurya') || lower.includes('hellow')) {
     return "hiiee, Kaise hoo??, dinner kra? kitne bje kra? kya khaya? aur din me kya kya kara? sab batao mujhe, me aati hu room theek krke";

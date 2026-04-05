@@ -1,3 +1,3 @@
-# Welcome to jarvis AI
+# Welcome to periperi AI
 
-TODO: Document your jarvis AI project here
+TODO: Document your periperi AI project here
